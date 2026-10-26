@@ -1,4 +1,4 @@
-# katago-linglong
+# katrian-linglong
 
 把 [KaTrain](https://github.com/sanderland/katrain) 打成如意玲珑（linglong）包。
 
